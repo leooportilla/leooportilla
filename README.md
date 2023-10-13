@@ -2,24 +2,24 @@
 # Leonardo Portilla🔥 - Autodidacta
 Desarrollador Frontend ❤️
 
-Soy un desarrollador apasionado y motivado con conocimientos en HTML, CSS, JavaScript y preprocesadores como Sass. Me formé en la academia CadiF1, donde adquirí conceptos fundamentales de programación. Aunque no tengo experiencia laboral en el campo, estoy comprometido en seguir aprendiendo y creciendo en esta industria.
+Estoy comprometido de aprender y crecer en el campo del desarrollo frontend, dispuesto a trabajar duro para alcanzar mis objetivos profesionales en crear experiencias de usuario de alta calidad.
 
 ``` js
 const habilidades = {
     tecnoligias: {
-        html: ``,
-        css: ``,
-        javascript: ``,
+        html: ` Es un lenguaje de marcado que se utiliza para el desarrollo de páginas web`,
+        css: `Es un lenguaje que permite controlar la presentación y el diseño de las páginas web.`,
+        javascript: `Es un lenguaje de programacion que permite crear experiencias interactivas.`,
     },
 
     preprocesadores: {
-        sass: ``,
+        sass: `Es un preprocesador CSS que permite escribir código más eficiente y fácil de mantener.`,
     },
 
     UI: {
-        figma: ``,
-        photoshop: ``,
-        illustrator: ``,
+        figma: `Es una herramienta de diseño y prototipado basada en la web para colaboración en tiempo real.`,
+        photoshop: `Es un programa de Adobe para la edición y retoque de imágenes y fotografías`,
+        illustrator: `Es una aplicación de Adobe para la creación y edición de gráficos vectoriales.`,
     }
 
 }
